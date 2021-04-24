@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/test/bplustree-disk-io/build/lib",
+  "command": "/usr/bin/gcc -D_BPLUS_TREE_DEBUG -Dbplustree_EXPORTS  -g -fPIC   -o CMakeFiles/bplustree.dir/bplustree.c.o   -c /test/bplustree-disk-io/lib/bplustree.c",
+  "file": "/test/bplustree-disk-io/lib/bplustree.c"
+},
+{
+  "directory": "/test/bplustree-disk-io/build/lib",
+  "command": "/usr/bin/gcc -D_BPLUS_TREE_DEBUG  -g   -o CMakeFiles/bplustree_static.dir/bplustree.c.o   -c /test/bplustree-disk-io/lib/bplustree.c",
+  "file": "/test/bplustree-disk-io/lib/bplustree.c"
+},
+{
+  "directory": "/test/bplustree-disk-io/build/tests",
+  "command": "/usr/bin/gcc  -I/test/bplustree-disk-io/lib  -O2 -Wall -Wextra -g   -o CMakeFiles/bplustree_demo.dir/bplustree_demo.c.o   -c /test/bplustree-disk-io/tests/bplustree_demo.c",
+  "file": "/test/bplustree-disk-io/tests/bplustree_demo.c"
+}
+]

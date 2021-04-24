@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2 -Wall -Wextra -g  -rdynamic CMakeFiles/bplustree_demo.dir/bplustree_demo.c.o  -o ../bin/bplustree_demo -Wl,-rpath,/test/bplustree-disk-io/build/lib ../lib/libbplustree.so.1.0 
